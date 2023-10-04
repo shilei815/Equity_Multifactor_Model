@@ -1,0 +1,4 @@
+Database,Sheet,Columns,Asset,Type,Frequency,Pool,Num_Top,Num_Bottom,Adjust_Freq,Weight_Method,neutralize,size,beta,style,industry,Status,Pattern,Detailed,Priority
+composition_factor,tf_highfre_factor,TF_highfre_factor,Ticker,Technical,Day,All A,20,20,3,,none,0,0,0,0,0,linear-,0,0
+composition_factor,tf_highfre_factor,TF_highfre_factor,Ticker,Technical,Day,All A,20,20,1,,none,0,0,0,0,0,linear-,0,0
+composition_factor,tf_highfre_factor,TF_highfre_factor,Ticker,Technical,Day,All A,20,20,5,,none,0,0,0,0,0,linear-,0,0

@@ -1,0 +1,7 @@
+Database,Sheet,Columns,Asset,Type,Frequency,Pool,Num_Top,Num_Bottom,Adjust_Freq,Weight_Method,neutralize,size,beta,style,industry,Status,Pattern,Detailed,Priority
+composition_factor,factor_combine5_2021_adjsutday,factor_combine5_2021_adjsutday,Ticker,Technical,Day,All A,100,100,20,,barra,1,1,1,1,0,linear+,0,0
+composition_factor,factor_combine5_2021_adjsutday,factor_combine5_2021_adjsutday,Ticker,Technical,Day,All A,100,100,20,,barra,1,1,0,1,0,linear+,0,0
+composition_factor,factor_combine5_2021_adjsutday,factor_combine5_2021_adjsutday,Ticker,Technical,Day,All A,100,100,20,,none,0,0,0,0,0,linear+,0,0
+composition_factor,factor_combine5_2021_adjsutday,factor_combine5_2021_adjsutday,Ticker,Technical,Day,All A,150,150,20,,barra,1,1,1,1,0,linear+,0,0
+composition_factor,factor_combine5_2021_adjsutday,factor_combine5_2021_adjsutday,Ticker,Technical,Day,All A,150,150,20,,barra,1,1,0,1,0,linear+,0,0
+composition_factor,factor_combine5_2021_adjsutday,factor_combine5_2021_adjsutday,Ticker,Technical,Day,All A,150,150,20,,none,0,0,0,0,0,linear+,0,0
